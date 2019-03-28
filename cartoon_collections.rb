@@ -6,7 +6,7 @@ end
 
 def summon_captain_planet(array)
 array.collect do |array|
-  array.capitalize
+  array.capitalize + "1"
 end
   end
 

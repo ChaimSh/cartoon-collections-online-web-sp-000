@@ -16,6 +16,7 @@ if array.length <= 3
 else
   true
 end
+end
 
 def find_the_cheese# code an argument here
   # the array below is here to help

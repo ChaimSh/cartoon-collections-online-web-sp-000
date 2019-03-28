@@ -12,9 +12,9 @@ end
 
 def long_planeteer_calls(array)
 if array.count <= 3
-  false
+  return false
 else
-  true
+  return true
 end
 end
 
